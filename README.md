@@ -6,7 +6,7 @@ This experimental script exports core text, notes and details for nodes.
 
 Node Notes and Details are exported as plain text rather than html (see Limitations)
 
-The script creates opml 'outline tags' with 'text' and '_note' attributes
+The script 'Export OPML from selected node.groovy' creates opml 'outline tags' with 'text' and '_note' attributes
 * The 'text' attribute will contain the plain text of the node core text
 * The '_note' attribute will contain the node's note (if present) and also appends the node's details if present
 
